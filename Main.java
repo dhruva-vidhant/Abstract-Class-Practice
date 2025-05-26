@@ -16,6 +16,7 @@ public class Main {
 
     //instrument.done();
     violin.done();
+    System.out.println();
     glockenspiel.done();
   }
 
