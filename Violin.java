@@ -3,7 +3,7 @@ public class Violin extends Instrument {
         System.out.println("Violin played");
     }
 
-    pubilc void tune() {
+    public void tune() {
         System.out.println("Violin tuned");
     }
 
